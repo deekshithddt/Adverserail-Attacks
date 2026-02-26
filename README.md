@@ -15,7 +15,24 @@ This repository can be used for research in:
 - Image-to-image translation  
 - Generative Adversarial Networks (GANs)  
 - Adversarial machine learning  
-- Computer vision  
+- Computer vision
+- ## Dataset
+
+The dataset is too large to upload on GitHub.
+
+You can download it from Google Drive:
+
+Dataset Link:
+[https://your-google-drive-link-here](https://drive.google.com/drive/folders/1CmC9YveXAPO78mCmkNtLiJHWTQTnoBQU?usp=sharing)
+
+After downloading, place the dataset in this structure:
+
+```
+dataset/
+│
+├── train/
+├── test/
+```
 
 ---
 
